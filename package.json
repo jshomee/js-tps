@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-tps",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Description for js-tps",
   "main": "src/index.js",
   "scripts": {
@@ -16,6 +16,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@movexl/manage-github-repo": "^1.0.0"
+    "@movexl/manage-github-repo": "^1.0.0",
+    "@jshomee/js-learn": "^1.0.0",
+    "@jshomee/js-lint": "^1.0.0",
+    "@jshomee/js-privacy": "^1.0.0",
+    "@jshomee/js-public": "^1.0.0",
+    "@jshomee/js-ai": "^1.0.0",
+    "@jshomee/js-rwa": "^1.0.0",
+    "@jshomee/js-fakeai": "^1.0.0",
+    "@jshomee/js-nft": "^1.0.0",
+    "@jshomee/js-dex": "^1.0.0",
+    "@jshomee/js-loan": "^1.0.0"
   }
 }
