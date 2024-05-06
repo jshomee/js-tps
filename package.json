@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-tps",
-  "version": "1.0.80",
+  "version": "1.0.81",
   "description": "Description for js-tps",
   "main": "src/index.js",
   "scripts": {
